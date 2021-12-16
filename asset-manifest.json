@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZiWayHome/static/css/main.18dbb190.css",
+    "main.js": "/ZiWayHome/static/js/main.1a6f4927.js",
+    "static/js/787.2d9dd2dc.chunk.js": "/ZiWayHome/static/js/787.2d9dd2dc.chunk.js",
+    "static/media/IMG_8868.jpg": "/ZiWayHome/static/media/IMG_8868.f44e30b321982885a983.jpg",
+    "static/media/gif": "/ZiWayHome/static/media/8b7fbc2e623720393ad7ffa7e4896eac.648d8d7a2d53dab163c9.gif",
+    "static/media/IMG_5821.jpg": "/ZiWayHome/static/media/IMG_5821.33981d10e622bde14a01.jpg",
+    "static/media/IMG_7967.jpg": "/ZiWayHome/static/media/IMG_7967.1d7b3713ff9faaba0db9.jpg",
+    "static/media/IMG_0700.JPG": "/ZiWayHome/static/media/IMG_0700.fd34f24efbd1d8a05233.JPG",
+    "static/media/a0c2f94e-1046-476a-8ac4-f6339d8864fe.jpg": "/ZiWayHome/static/media/a0c2f94e-1046-476a-8ac4-f6339d8864fe.3871fc1cc2bb98022b41.jpg",
+    "static/media/IMG_0327.jpg": "/ZiWayHome/static/media/IMG_0327.0142be867a78c138562c.jpg",
+    "static/media/c8d5f6e0-049a-4015-a5b7-98c561edfb06.jpg": "/ZiWayHome/static/media/c8d5f6e0-049a-4015-a5b7-98c561edfb06.a839e50ac25808fbf272.jpg",
+    "static/media/7b18f2c4-7396-48a6-b75f-bad2f5888edc.jpg": "/ZiWayHome/static/media/7b18f2c4-7396-48a6-b75f-bad2f5888edc.955119fad58ee4a658e5.jpg",
+    "index.html": "/ZiWayHome/index.html",
+    "main.18dbb190.css.map": "/ZiWayHome/static/css/main.18dbb190.css.map",
+    "main.1a6f4927.js.map": "/ZiWayHome/static/js/main.1a6f4927.js.map",
+    "787.2d9dd2dc.chunk.js.map": "/ZiWayHome/static/js/787.2d9dd2dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18dbb190.css",
+    "static/js/main.1a6f4927.js"
+  ]
+}
