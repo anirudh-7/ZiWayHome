@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+
+.BodyContainer{
+  display: flex;
+  flex-direction: column;
+  height: 100%
+}
+
+.picture{
+  width: 300px;
+  height: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20%;
+
+}
+
+.Countdown{
+  margin: 10px auto;
+  padding-bottom: 20px;
+}
+
+.Countdown-col{
+  display: inline-block;
+}
+
+.Countdown-col-element{
+  display: inline-block;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Countdown-col-element strong{
+  font-size: 50px;
+}
